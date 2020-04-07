@@ -7,6 +7,11 @@ While hard to believe, it's only been a few short months since the SARS-CoV-2 vi
 In that time, researchers from all strands of viral, public health, and epidemiological science have had to rapidly pivot to the rising challenge.
 Overall, this has been done admirably - we've never before had so much information, so quickly, this early in a global outbreak.
 
+[sequencing fund](sequencing-fund)
+
+[lab funding](lab-funding)
+
+
 ### The Problem
 
 However hardworking scientists and researchers may be however, science does not run without funding.
