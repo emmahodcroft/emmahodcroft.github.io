@@ -1,4 +1,4 @@
-## A Better Way to Fund Science
+## A Better Way to Fund COVID-19 Research
 
 The COVID-19 global pandemic has led to incredible innovation across every level of life: parents are now teachers, friends are now zoom-buddies, and working is incredibly remote.
 Innovation has also happened in the science and research on COVID-19/SARS-CoV-2.
