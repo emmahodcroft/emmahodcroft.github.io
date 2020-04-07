@@ -7,9 +7,9 @@ While hard to believe, it's only been a few short months since the SARS-CoV-2 vi
 In that time, researchers from all strands of viral, public health, and epidemiological science have had to rapidly pivot to the rising challenge.
 Overall, this has been done admirably - we've never before had so much information, so quickly, this early in a global outbreak.
 
-[sequencing fund](sequencing-fund)
+[sequencing fund](sequencing-fund.md)
 
-[lab funding](lab-funding)
+[lab funding](lab-funding.md)
 
 
 ### The Problem
