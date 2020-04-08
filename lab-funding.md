@@ -30,14 +30,14 @@ And the best outcome for them is a small chance of some money in a crowded field
 For others, who couldn't scrape together time to write a grant - nothing.
 Regardless, they do and will keep going, setting aside all other opportunities & work.
 
-#### Life isn't fair. But I, at least, cannot help but look at this & think *there must be a better way*.
+### Life isn't fair. But I, at least, cannot help but look at this & think *there must be a better way*.
 
 More funding calls requiring different & long-form applications that take months to process *are not the answer*. 
 Yet each agency in turn strolls out to lay them down.
 Scientists despair with each because *there is no time* and yet what choice do we have but to *try* - because otherwise we struggle on unfunded.
 So stay up late, work harder, tell them the research has to wait... in a pandemic. Is that what we want to encourage right now?
 
-**We need a better way forward for COVID-19 SARS-CoV-2 funding.**
+## We need a better way forward for COVID-19 SARS-CoV-2 funding.
 
 One way might be to reward work **already done** - fast-track _short_ applications based on the incredible research done in the past 3 months to *continue this work*.
 Scientists have never worked so hard, so openly, so urgently!
@@ -51,11 +51,8 @@ Imagine what they could do if the pressures of applications & uncertainty about 
 
 **Let's try to find a better way. Let's enable great COVID-19 science.**
 
-I want to help by [funding a global sequencing network]() $
-I want to help by [funding a lab]() $$
 
-
-# Survey results
+## Survey results
 
 Of 9 responses:
 
