@@ -1,4 +1,4 @@
-## A Better Way to Fund COVID-19 Research
+# A Better Way to Fund COVID-19 Research
 
 The COVID-19 global pandemic has led to incredible innovation across every level of life: parents are now teachers, friends are now zoom-buddies, and working is incredibly remote.
 Innovation has also happened in the science and research on COVID-19/SARS-CoV-2.
@@ -12,21 +12,38 @@ I want to jump straight to:
 - How I can help [funding a lab doing COVID-19 research](lab-funding.md)
 
 
-### The Problem
+## The Problem
 
 However hardworking scientists and researchers may be however, science does not run without funding.
 Reagents & equipment are serious expenses, and often funds are ringfenced - you cannot simply spend money allocated to one project on another - even if there's a global pandemic going on.
-Similarly, all the reagents and equiptment in the world is useless if you cannot pay for someone to run it. 
+Similarly, all the reagents and equipment in the world are useless if you cannot pay for someone to run it. 
+
+#### Lab Funding
 
 Funding agencies have put together emergency calls which aim to provide funds for research on COVID-19 and SARS-CoV-2.
 However, most funding bodies have themselves struggled to pivot very quickly to meet the different environment and circumstance we find ourselves in today.
 For some, this was the first time they've had such an 'emergency' funding call - that in itself was an achievement.
 This of course must be lauded, but for many labs, it's just not enough.
+Applications are lengthy, outcomes uncertain, and the money comes slowly - all while scientists are working harder than ever before.
 
-Applications are lengthy, outcomes uncertain, and the money comes slowly - all while scientists are working harder than every before.
+#### Outbreak response sequencing funding
 
-### Two Solutions
+Furthermore, some labs don't necessarily need long-term funding - or will apply for this from their own government agencies in due course - but are missing opporunities to contribute to vital science *right now* due to lack of immediate funds.
+Getting genetic sequences from every area of the world impacted by SARS-CoV-2 is critical to better understanding the epidemic both on a global and local scale.
+Many labs have the samples, training, base equipment, and enthusiasm to start sequencing SARS-CoV-2 samples straight away - but we are losing weeks - sometimes *months* of valuable data while they wait for money to arrive.
+These critical early samples can be lost forever to the sands of time - meaning we might never be able to understand the early outbreak epidemics of many countries - or how they were seeded from and imapacted the global outbeak - at high resolution.
 
+## Two Solutions
+
+Two similar but different pathways could make a huge difference to SARS-CoV-2/COVID-19 research **right now**.
+
+
+First, a relatively small amount of money (in a research context) - $300,000 - could fund 15 labs around the world to start sequencing SARS-CoV-2 *straight away*, and making their sequences publicly available for all to use.
+These labs will be vetted to ensure they have the experience, base equipment, and samples ready, so that the turnaround and results can be as fast as possible.
+
+Second, we aim to build funds to help investors recognise the key work that has already been done by so many scientists working on SARS-CoV-2/COVID-19.
+With short applications that focus on the work done in the past 3 months, and how that could scale forward over the next year or so, and fast turn-around times, these grants would free promising labs to concentrate on research - not grant writing.
+Their enthusiasm for jumping into COVID-19 research without knowing if they might have the funds to continue it would be duly rewarded!
 
 
 **Let's try to find a better way. Let's enable great COVID-19 science.**
