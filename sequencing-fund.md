@@ -11,11 +11,11 @@ A prime example is Iran - despite the devastating outbreak there, no full-genome
 
 With the advent of relatively cheap and efficient sequencing techniques, like Oxford Nanopore's minION range, sequencing is now more transportable, easily maintainable, and available, than ever before.
 However, a sequencer can only run with the appropriate reagents and limited-use 'kit' (which degrades over time and so must be replaced).
-Without these vital pieces, *a lab can have the samples, expertise, and minION, Illumina, or other sequencing base equipment ready to start producing SARS-CoV-2 genomes - but stand unused for weeks or months*. 
+Without these vital pieces, *a lab can have the samples, expertise, and base sequencing equipment ready to start producing SARS-CoV-2 genomes - but stand unused for weeks or months*. 
 
 The start of an epidemic is one of the most critical times to collect sequences: these unique dynamics are hard to capture after-the-fact, and countries need as much data as possible in order to make appropriate decisions about social distancing, border closures, and lockdowns.
 Many of these centres are likely to be funded in future by local or governmental funding schemes, but will not be able to start processing critical samples *now*.
-**Our aim is to quickly provide enough money to ensure that labs are not limited by reagents & kit, and can start generating and uploading sequences both for local response and for other scientists to use, as soon as possible.**
+**Our aim is to quickly provide sufficient money to ensure that labs are not limited by reagents & kit, and can start generating and uploading sequences both for local response and for other scientists to use, as soon as possible.**
 
 ![image](/images/fredHutch_covid.png)
 
@@ -39,7 +39,7 @@ While SARS-CoV-2 has a very normal mutation rate for a virus in the coronavirus 
 If SARS-CoV-2 becomes seasonal, and we develop vaccines and antiviral drugs to combat it, we will need to be able to monitor signs that the vaccines or treatment may be less effective, around the world and through time.
 
 ## Globally
-Sequencing helps us better understand how the virus is spreading between the within countries - without having to interview everyone with the virus. 
+Sequencing helps us better understand how the virus is spreading between and within countries - without having to interview everyone with the virus. 
 This helps show us, for example, that the epidemic in Italy was sparked by more than one introduction, and that the USA has had multiple introductions from all over the world (not 'just' from China - or Europe). 
 
 {% include image.html url="/images/italian-intros-small.PNG" description="Italian sequences are spread across the tree, indicating multiple introductions." %}
