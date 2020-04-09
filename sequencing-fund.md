@@ -26,12 +26,11 @@ This is intended as 'bridge' funding to ensure sequences can be generated at thi
 
 **Donate [here](https://www.fredhutch.org/en/ways-to-give/direct-your-gift/support-coronavirus-research.html)**
 
-## How does sequencing help?
+# How does sequencing help?
 
 Sequencing allows us to see beyond simple case-counts.
 Through the viral genome, we can reconstruct how different viruses are related to each other ([more on how we do this here]()) *(link coming soon)*.
 This allows us to trace the virus as it moves through time and around the globe - without having to rely on patient interviews or self-reported movement or interactions (though we can often incorporate these too, if available).
-
 
 As well as tracking the virus in real-time, we can make inferences about when and where the virus arrived in different parts of the world, country, or region - as data becomes more available.
 These efforts can be critical to inform appropriate health agency and government responses, both in the present and in the future.
@@ -39,10 +38,13 @@ These efforts can be critical to inform appropriate health agency and government
 While SARS-CoV-2 has a very normal mutation rate for a virus in the coronavirus family, and we have no concerns about the functional impact of viruses in the short-term, there is value in the long-term monitoring of the viral genetics.
 If SARS-CoV-2 becomes seasonal, and we develop vaccines and antiviral drugs to combat it, we will need to be able to monitor signs that the vaccines or treatment may be less effective, around the world and through time.
 
-### Globally
+## Globally
 Sequencing helps us better understand how the virus is spreading between the within countries - without having to interview everyone with the virus. 
+This helps show us, for example, that the epidemic in Italy was sparked by more than one introduction, and that the USA has had multiple introductions from all over the world (not 'just' from China - or Europe). 
 
-### Locally
+{% include image.html url="/images/italian-intros.PNG" description="Italian sequenes are spread across the tree, indicating multiple introductions." %}
+
+## Locally
 Sequencing can be critical at the beginning and end of an epidemic to figure out whether transmission is local or imported.
 For example, if we detected 5 cases in Townsville today, it's really important to know whether these are from people who have arrived from 'high risk' areas - infected elsewhere and then arrived here - or whether these infections were transmitted right here in our community.
 Testing alone can struggle to distinguish these two, especially as sample numbers rise. 
@@ -56,7 +58,7 @@ Cases might still be imported from other high-risk areas, despite our own local 
 However, if indications are that the cases due to local transmission, this might be an indicator that the measures that are implemented are not doing well enough - we may need to step up testing, or temporarily go back to lockdown measures.
 This also allows for more *targeted* intervention - we can tell the difference between sequences being transmitted within one city or across the country - allowing us to take measures that just apply to the affected cities or regions, without needing to put restrictions back on the larger population - allowing social and economic recovery to continue on a larger scale, while we contain smaller areas where attention is needed.
 
-### Long-term
+## Long-term
 
 #### Vaccine resistance
 
