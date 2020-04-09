@@ -25,6 +25,8 @@ Getting genetic sequences from every area of the world impacted by SARS-CoV-2 is
 Many labs have the samples, training, base equipment, and enthusiasm to start sequencing SARS-CoV-2 samples straight away - but we are losing weeks - sometimes *months* of valuable data while they wait for money to arrive.
 These critical early samples can be lost forever to the sands of time - meaning we might never be able to understand the early outbreak epidemics of many countries - or how they were seeded from and imapacted the global outbeak - at high resolution.
 
+**[Read more](sequencing-fund.md)**
+
 #### Lab Funding
 
 Funding agencies have put together emergency calls which aim to provide funds for research on COVID-19 and SARS-CoV-2.
@@ -32,6 +34,8 @@ However, most funding bodies have themselves struggled to pivot very quickly to 
 For some, this was the first time they've had such an 'emergency' funding call - that in itself was an achievement.
 This of course must be lauded, but for many labs, it's just not enough.
 Applications are lengthy, outcomes uncertain, and the money comes slowly - all while scientists are working harder than ever before.
+
+**[Read more](lab-funding.md)**
 
 
 ## Two Solutions
@@ -42,10 +46,13 @@ Two similar but different pathways could make a huge difference to SARS-CoV-2/CO
 First, a relatively small amount of money (in a research context) - $300,000 - could fund 15 labs around the world to start sequencing SARS-CoV-2 *straight away*, and making their sequences publicly available for all to use.
 These labs will be vetted to ensure they have the experience, base equipment, and samples ready, so that the turnaround and results can be as fast as possible.
 
+*[Read more about supporting a global sequencing network](sequencing-fund.md)*
+
 Second, we aim to build funds to help investors recognise the key work that has already been done by so many scientists working on SARS-CoV-2/COVID-19.
 With short applications that focus on the work done in the past 3 months, and how that could scale forward over the next year or so, and fast turn-around times, these grants would free promising labs to concentrate on research - not grant writing.
 Their enthusiasm for jumping into COVID-19 research without knowing if they might have the funds to continue it would be duly rewarded!
 
+*[Read more about funding a lab doing COVID-19 research](lab-funding.md)*
 
 **Let's try to find a better way. Let's enable great COVID-19 science.**
 
