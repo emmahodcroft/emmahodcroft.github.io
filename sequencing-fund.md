@@ -13,8 +13,8 @@ With the advent of relatively cheap and efficient sequencing techniques, like Ox
 However, a sequencer can only run with the appropriate reagents and limited-use 'kit' (which degrades over time and so must be replaced).
 Without these vital pieces, *a lab can have the samples, expertise, and base sequencing equipment ready to start producing SARS-CoV-2 genomes - but stand unused for weeks or months*. 
 
-The start of an epidemic is one of the most critical times to collect sequences: these unique dynamics are hard to capture after-the-fact, and countries need as much data as possible in order to make appropriate decisions about social distancing, border closures, and lockdowns.
-Many of these centres are likely to be funded in future by local or governmental funding schemes, but will not be able to start processing critical samples *now*.
+The start of an epidemic is one of the most critical times to collect sequences: these unique dynamics are hard to capture after-the-fact, and countries need as much data as possible in order to make appropriate decisions about interventions such as social distancing and lockdowns.
+Many of sequencing centres are likely to be funded in future by local or governmental funding schemes, but will not be able to start processing critical samples *now*.
 **Our aim is to quickly provide sufficient money to ensure that labs are not limited by reagents & kit, and can start generating and uploading sequences both for local response and for other scientists to use, as soon as possible.**
 
 ![image](/images/fredHutch_covid.png)
@@ -42,9 +42,9 @@ If SARS-CoV-2 becomes seasonal, and we develop vaccines and antiviral drugs to c
 Sequencing helps us better understand how the virus is spreading between and within countries - without having to interview everyone with the virus. 
 This helps show us, for example, that the epidemic in Italy was sparked by more than one introduction, and that the USA has had multiple introductions from all over the world (not 'just' from China - or Europe). 
 
-{% include image.html url="/images/italian-intros-small.PNG" description="Italian sequences are spread across the tree, indicating multiple introductions." %}
+{% include image.html url="/images/italian-intros-small.PNG" description="Italian sequences (yellow-green) are spread across the tree, indicating multiple introductions." %}
 
-{% include image.html url="/images/USA-connections-small.PNG" description="The USA has had multiple introductions from many countries." %}
+{% include image.html url="/images/USA-connections.PNG" description="The USA has had multiple introductions from many countries." %}
 
 <br><br>
 
@@ -89,3 +89,9 @@ Whether this role is filled by Nextstrain or by many platforms doing such tracki
 Similarly, as we develop antiviral drugs provide effective treatment against COVID-19 (the disease caused by SARS-CoV-2), we will need to monitor the SARS-CoV-2 virus for mutations that lead to drug resistance.
 This is already commonly done with HIV.
 Additionally, we may be able to assess whether different variants of the virus, which may arise in future, have differing susceptibility to antiviral treatments.
+
+## Read More & Donate
+
+**Read more about the idea behind our initiative [here](https://www.fredhutch.org/en/news/center-news/2020/03/support-nextstrain-covid-19-mapping.html)**
+
+**Donate [here](https://www.fredhutch.org/en/ways-to-give/direct-your-gift/support-coronavirus-research.html)**
