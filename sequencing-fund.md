@@ -46,7 +46,7 @@ This helps show us, for example, that the epidemic in Italy was sparked by more 
 
 {% include image.html url="/images/USA-connections-small.PNG" description="The USA has had multiple introductions from many countries." %}
 
-<br>
+<br><br>
 
 ## Locally
 Sequencing can be critical at the beginning and end of an epidemic to figure out whether transmission is local or imported.
