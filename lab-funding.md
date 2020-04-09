@@ -54,17 +54,17 @@ Imagine what they could do if the pressures of applications & uncertainty about 
 
 ## Survey results
 
-Of 9 responses:
+Of 11 responses:
 
-- 50% have not applied for funding 
+- 55% (6) have not applied for funding 
 Reasons for not applying (could select 4):
-- 5/9 said they don't have time due to their current SARS-CoV-2 work
-- 4/9 said the money could not come quickly enough
+- 6/6 said they don't have time due to their current SARS-CoV-2 work
+- 4/6 said the money could not come quickly enough
 
 When asked to choose the top 3 reasons that would influence applying for funding:
-- 9/9 said shorter applications (<= 5 pages for main proposal)
-- 7/9 said faster turn around for review & money receipt
-- 5/9 said funding for 'past work' - work done on SARS-CoV-2 in the past 3 months
+- 10/11 said shorter applications (<= 5 pages for main proposal)
+- 8/11 said faster turn around for review & money receipt
+- 5/11 said funding for 'past work' - work done on SARS-CoV-2 in the past 3 months
+- 5/11 said allowing non-group leaders to apply for grants
 
 All were interested in hearing about opportunities to apply for fast-track, short-application funding.
-- 4/9 said allowing non-group leaders to apply *and* 3rd party assitance to fill out applications
