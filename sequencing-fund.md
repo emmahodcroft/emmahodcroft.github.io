@@ -42,7 +42,11 @@ If SARS-CoV-2 becomes seasonal, and we develop vaccines and antiviral drugs to c
 Sequencing helps us better understand how the virus is spreading between the within countries - without having to interview everyone with the virus. 
 This helps show us, for example, that the epidemic in Italy was sparked by more than one introduction, and that the USA has had multiple introductions from all over the world (not 'just' from China - or Europe). 
 
-{% include image.html url="/images/italian-intros.PNG" description="Italian sequenes are spread across the tree, indicating multiple introductions." %}
+{% include image.html url="/images/italian-intros-small.PNG" description="Italian sequences are spread across the tree, indicating multiple introductions." %}
+
+{% include image.html url="/images/USA-connections-small.PNG" description="The USA has had multiple introductions from many countries." %}
+
+<br>
 
 ## Locally
 Sequencing can be critical at the beginning and end of an epidemic to figure out whether transmission is local or imported.
@@ -56,11 +60,32 @@ If transmission is mostly local (the sequences cluster really tightly in the tre
 At the end of an epidemic, this same difference in imported or local cases can help us evaluate if our local containment measures are working.
 Cases might still be imported from other high-risk areas, despite our own local efforts, but as long as we can detect and isolate these, there's no reason to modify our local interventions.
 However, if indications are that the cases due to local transmission, this might be an indicator that the measures that are implemented are not doing well enough - we may need to step up testing, or temporarily go back to lockdown measures.
+
 This also allows for more *targeted* intervention - we can tell the difference between sequences being transmitted within one city or across the country - allowing us to take measures that just apply to the affected cities or regions, without needing to put restrictions back on the larger population - allowing social and economic recovery to continue on a larger scale, while we contain smaller areas where attention is needed.
+
+Finally, by using the viral genetics to uncover how the virus has spread in the past, we can predict the routes it will use *in the future*.
+The transmission paths and transportation networks that were most conducive to aiding virus spread at the beginning of the outbreak are the same ones that will be susceptible to allowing transmisison as we try to move out of social-distancing and lockdown restrictions.
+The better we understand how the virus moved through and between countries a few weeks and months ago, the better we can prepare to restrict transmssion along these pathways in the future.
 
 ## Long-term
 
+As well as the immediate implications of sequencing for public health and government policy, there is a vital role for sequencing in longer-term surveillance, if the SARS-CoV-2 virus persists beyond this year.
+
 #### Vaccine resistance
+
+Work is already underway towards a SARS-CoV-2 vaccine.
+An effective vaccine will make a huge difference in how we can manage SARS-CoV-2 going forward, if the virus persists in the human population.
+However, we don't know much about how immunity is formed and persists against viruses like SARS-CoV-2, nor what role mutations might play in the ongoing efficacy of such a vaccine.
+With influenza, we must update our vaccine twice a year (once each for the Northern and South hemispheres to prepare for their respective winters), due to mutations that occur on the outside of the virus.
+Other viruses do not mutate in the same way, and one vaccine is enough to protect you for the rest of your life.
+Where SARS-CoV-2 fits on this scale is unclear.
+What is is clear, however, is that we must be prepared to monitor the virus for signs of these longer-term mutations, indications these may impact vaccines, and if necessary, use this information to select new vaccines.
+
+Nextstrain, using sequencing data, plays an important role in helping to select these vaccine strains each year, and monitors the most important genetic sites in the influenza virus to give insight into how effective the old and new vaccines might be.
+Whether this role is filled by Nextstrain or by many platforms doing such tracking, we should be prepared *now* to start surveillance for these mutations in SARS-CoV-2.
 
 #### Drug resistance 
 
+Similarly, as we develop antiviral drugs provide effective treatment against COVID-19 (the disease caused by SARS-CoV-2), we will need to monitor the SARS-CoV-2 virus for mutations that lead to drug resistance.
+This is already commonly done with HIV.
+Additionally, we may be able to assess whether different variants of the virus, which may arise in future, have differing susceptibility to antiviral treatments.
