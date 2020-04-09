@@ -26,6 +26,8 @@ This is intended as 'bridge' funding to ensure sequences can be generated at thi
 
 **Donate [here](https://www.fredhutch.org/en/ways-to-give/direct-your-gift/support-coronavirus-research.html)**
 
+[![image2](/images/donateButton.PNG)](https://secure.fredhutch.org/site/SPageServer?pagename=adf_covid19&experience=covid19&s_src=WEB&s_subsrc=aebin2003covf&fh_element=nonhpformlet&creator=fh&version=control&team=philanthropy&amt=100)
+
 # How does sequencing help?
 
 Sequencing allows us to see beyond simple case-counts.
@@ -95,3 +97,5 @@ Additionally, we may be able to assess whether different variants of the virus, 
 **Read more about the idea behind our initiative [here](https://www.fredhutch.org/en/news/center-news/2020/03/support-nextstrain-covid-19-mapping.html)**
 
 **Donate [here](https://www.fredhutch.org/en/ways-to-give/direct-your-gift/support-coronavirus-research.html)**
+
+[![image2](/images/donateButton.PNG)](https://secure.fredhutch.org/site/SPageServer?pagename=adf_covid19&experience=covid19&s_src=WEB&s_subsrc=aebin2003covf&fh_element=nonhpformlet&creator=fh&version=control&team=philanthropy&amt=100)
