@@ -1,3 +1,7 @@
+layout: home
+title: "A Better Way to Fund COVID-19 Research"
+image: /images/virus_huntress_banner.png
+
 # A Better Way to Fund COVID-19 Research
 
 The COVID-19 global pandemic has led to incredible innovation across every level of life: parents are now teachers, friends are now zoom-buddies, and working is incredibly remote.
@@ -15,7 +19,7 @@ Jump straight to:
 ## The Problem
 
 However hardworking scientists and researchers may be however, science does not run without funding.
-Reagents & equipment are serious expenses, and often funds are ringfenced - you cannot simply spend money allocated to one project on another - even if there's a global pandemic going on.
+Reagents & equipment are serious expenses, and often funds are ring-fenced - you cannot simply spend money allocated to one project on another - even if there's a global pandemic going on.
 Similarly, all the reagents and equipment in the world are useless if you cannot pay for someone to run it. 
 
 #### Outbreak response sequencing funding
