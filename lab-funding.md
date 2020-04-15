@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /lab-funding/
 title: Emergency Lab Funding
 ---
 
