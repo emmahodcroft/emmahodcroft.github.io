@@ -15,9 +15,11 @@ I reached out to people on Twitter to try and gather links to country's data on 
 ## Netherlands
 - Report from 10 April [here](https://www.cbs.nl/en-gb/news/2020/15/mortality-rising-further) Appears it might be being updated. Link to datatable present.
 - Another report from 9 Apr [here](https://www.rivm.nl/monitoring-sterftecijfers-nederland) Does not appear to be updated.
+- Mortality data available [here](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table?fromstatweb)
 
 ## Switzerland
 - Updated data available [here](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/sterblichkeit-todesursachen.html). Raw data available in middle of page.
+- 2020 data is available [here](https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death.assetdetail.12467389.html) (see bottom of page) and historical data available [here](https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death.assetdetail.12607335.html)
 
 ## Spain
 - Updated reports from Spain available [here](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx) Click on the latest date. These are PDF - unsure if raw data availble somewhere.
@@ -26,11 +28,18 @@ I reached out to people on Twitter to try and gather links to country's data on 
 - Updated graph available [here](http://www.salute.gov.it/portale/caldo/dettaglioContenutiCaldo.jsp?lingua=italiano&id=4547&area=emergenzaCaldo&menu=vuoto)
 - Updated PDF available [here](http://www.salute.gov.it/portale/caldo/SISMG_sintesi_ULTIMO.pdf). Not clear if raw data available.
 
+## Portugal
+- No graph, but raw data available [here](https://evm.min-saude.pt/#shiny-tab-q_total)
+
+## Sweden
+- No graph, but raw data available from link at bottom of page [here](https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/ovanligt-manga-dog-vecka-14/)
+
 ## UK
 - Static page for 3rd April available [here](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending3april2020). Raw data should be available to download.
 
 ## France
 - Static page for 30 March available [here](https://www.lemediatv.fr/articles/analyses/maj-10-04-les-morts-invisibles-du-coronavirus-la-verite-derriere-les-chiffres-officiels-SaYKcOT9RFaTkUMNO7HOYg). Unsure if raw data is available.
+- Raw data available from links at bottom of page [here](https://www.insee.fr/fr/information/4470857)
 
 # Larger Regions
 
