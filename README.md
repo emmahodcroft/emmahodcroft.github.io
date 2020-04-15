@@ -1,7 +1,3 @@
-layout: home
-title: "A Better Way to Fund COVID-19 Research"
-image: /images/virus_huntress_banner.png
-
 # A Better Way to Fund COVID-19 Research
 
 The COVID-19 global pandemic has led to incredible innovation across every level of life: parents are now teachers, friends are now zoom-buddies, and working is incredibly remote.
