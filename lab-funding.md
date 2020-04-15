@@ -1,4 +1,6 @@
 layout: page
+permalink: /lab-funding/
+title: "Emergency Lab Funding"	
 
 # Our current funding methods stand a good chance of failing COVID-19 SARS-CoV-2 research.
 
