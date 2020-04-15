@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Global Sequencing Fund"
 permalink: /sequencing-fund/
-
+---
 # COVID-19 is global. Sequencing it should be too.
 
 ![COVID-19 spread over world](/images/all_over_world.png)
