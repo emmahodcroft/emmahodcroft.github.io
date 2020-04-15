@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Global Sequencing Fund"
-permalink: /sequencing-fund.md
 ---
 # COVID-19 is global. Sequencing it should be too.
 
