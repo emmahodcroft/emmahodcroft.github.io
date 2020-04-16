@@ -27,6 +27,7 @@ I reached out to people on Twitter to try and gather links to country's data on 
 ## Italy
 - Updated graph available [here](http://www.salute.gov.it/portale/caldo/dettaglioContenutiCaldo.jsp?lingua=italiano&id=4547&area=emergenzaCaldo&menu=vuoto)
 - Updated PDF available [here](http://www.salute.gov.it/portale/caldo/SISMG_sintesi_ULTIMO.pdf). Not clear if raw data available.
+- [This site](https://www.istat.it/it/archivio/240401) may have raw data on deaths available, until 28 Mar (at posting)
 
 ## Portugal
 - No graph, but raw data available [here](https://evm.min-saude.pt/#shiny-tab-q_total)
