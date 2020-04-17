@@ -13,8 +13,10 @@ This means we gather data on all deaths above what we expect - even if their off
 I reached out to people on Twitter to try and gather links to country's data on excess mortality, if available.  Here's what I managed to gather!
 
 ## Netherlands
-- Report from 10 April [here](https://www.cbs.nl/en-gb/news/2020/15/mortality-rising-further) Appears it might be being updated. Link to datatable present.
+- Report from 17 April [here](https://www.cbs.nl/en-gb/news/2020/16/mortality-in-second-week-of-april-estimated-at-5-000)
+- Report from 10 April [here](https://www.cbs.nl/en-gb/news/2020/15/mortality-rising-further). Link to datatable present.
 - Another report from 9 Apr [here](https://www.rivm.nl/monitoring-sterftecijfers-nederland) Does not appear to be updated.
+- Interactive mortality graph, though Jan 2020 [here](https://epistat.wiv-isp.be/momo/)
 - Mortality data available [here](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table?fromstatweb)
 
 ## Switzerland
@@ -23,6 +25,7 @@ I reached out to people on Twitter to try and gather links to country's data on 
 
 ## Spain
 - Updated reports from Spain available [here](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx) Click on the latest date. These are PDF - unsure if raw data availble somewhere.
+- Dataset available [here](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#datos)
 
 ## Italy
 - Updated graph available [here](http://www.salute.gov.it/portale/caldo/dettaglioContenutiCaldo.jsp?lingua=italiano&id=4547&area=emergenzaCaldo&menu=vuoto)
@@ -41,6 +44,9 @@ I reached out to people on Twitter to try and gather links to country's data on 
 ## France
 - Static page for 30 March available [here](https://www.lemediatv.fr/articles/analyses/maj-10-04-les-morts-invisibles-du-coronavirus-la-verite-derriere-les-chiffres-officiels-SaYKcOT9RFaTkUMNO7HOYg). Unsure if raw data is available.
 - Raw data available from links at bottom of page [here](https://www.insee.fr/fr/information/4470857)
+
+## Belgium
+- PDF of mortality data available [here](https://epidemio.wiv-isp.be/ID/Documents/Covid19/Meest%20recente%20update.pdf) - unsure if excess mortality
 
 # Larger Regions
 
