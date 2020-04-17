@@ -46,7 +46,7 @@ I reached out to people on Twitter to try and gather links to country's data on 
 - Raw data available from links at bottom of page [here](https://www.insee.fr/fr/information/4470857)
 
 ## Belgium
-- PDF of mortality data available [here](https://epidemio.wiv-isp.be/ID/Documents/Covid19/Meest%20recente%20update.pdf) - unsure if excess mortality
+- PDF of mortality data from 16 Apr available [here](https://epidemio.wiv-isp.be/ID/Documents/Covid19/Epi%20update_NL/COVID-19_Weekly%20report_20200416%20-%20NL.pdf). Look for table under heading 2.8.1, on page 15. Observed deaths = 'waargenomen sterfgevallen', Expected deaths = "verwachte sterfgevallen". (Thanks to [@thomasroelens](https://twitter.com/thomasroelens) )
 
 # Larger Regions
 
