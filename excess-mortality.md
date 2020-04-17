@@ -16,7 +16,6 @@ I reached out to people on Twitter to try and gather links to country's data on 
 - Report from 17 April [here](https://www.cbs.nl/en-gb/news/2020/16/mortality-in-second-week-of-april-estimated-at-5-000)
 - Report from 10 April [here](https://www.cbs.nl/en-gb/news/2020/15/mortality-rising-further). Link to datatable present.
 - Another report from 9 Apr [here](https://www.rivm.nl/monitoring-sterftecijfers-nederland) Does not appear to be updated.
-- Interactive mortality graph, though Jan 2020 [here](https://epistat.wiv-isp.be/momo/)
 - Mortality data available [here](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table?fromstatweb)
 
 ## Switzerland
@@ -47,6 +46,7 @@ I reached out to people on Twitter to try and gather links to country's data on 
 
 ## Belgium
 - PDF of mortality data from 16 Apr available [here](https://epidemio.wiv-isp.be/ID/Documents/Covid19/Epi%20update_NL/COVID-19_Weekly%20report_20200416%20-%20NL.pdf). Look for table under heading 2.8.1, on page 15. Observed deaths = 'waargenomen sterfgevallen', Expected deaths = "verwachte sterfgevallen". (Thanks to [@thomasroelens](https://twitter.com/thomasroelens) )
+- Interactive mortality graph, through Mar 2020 [here](https://epistat.wiv-isp.be/momo/) - updated with a lag of about 4 weeks
 
 # Larger Regions
 
