@@ -15,7 +15,7 @@ I reached out to people on Twitter to try and gather links to country's data on 
 ## Netherlands
 - Report from 17 April [here](https://www.cbs.nl/en-gb/news/2020/16/mortality-in-second-week-of-april-estimated-at-5-000)
 - Report from 10 April [here](https://www.cbs.nl/en-gb/news/2020/15/mortality-rising-further). Link to datatable present.
-- Another report from 9 Apr [here](https://www.rivm.nl/monitoring-sterftecijfers-nederland) Does not appear to be updated.
+- Anothe report - does update - available [here](https://www.rivm.nl/monitoring-sterftecijfers-nederland)
 - Mortality data available [here](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table?fromstatweb)
 
 ## Switzerland
