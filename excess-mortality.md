@@ -38,6 +38,7 @@ I reached out to people on Twitter to try and gather links to country's data on 
 - No graph, but raw data available from link at bottom of page [here](https://www.scb.se/om-scb/nyheter-och-pressmeddelanden/ovanligt-manga-dog-vecka-14/)
 
 ## UK
+- Updated, interactive app [here](https://ukpublichealthdata.shinyapps.io/weekly_deaths/) with links to data download.
 - Static page for 3rd April available [here](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending3april2020). Raw data should be available to download.
 
 ## France
